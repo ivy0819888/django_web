@@ -38,8 +38,8 @@
 - 作业批改管理
 - 个人信息管理
 
-**管理员功能界面图**![1753458430725](C:\Windows\TEMP\1753458430725.png)
-
+**管理员功能界面图**
+https://github.com/ivy0819888/django_web/blob/main/%E5%AD%A6%E7%94%9F.png
 **学生管理界面图**
 
 ![1753458884621](C:\Windows\TEMP\1753458884621.png)
