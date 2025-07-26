@@ -39,11 +39,12 @@
 - 个人信息管理
 
 **管理员功能界面图**
+
 https://github.com/ivy0819888/django_web/blob/main/%E5%AD%A6%E7%94%9F.png
+
 **学生管理界面图**
 
-![1753458884621](C:\Windows\TEMP\1753458884621.png)
-
+https://github.com/ivy0819888/django_web/blob/main/%E6%95%99%E5%B8%88.png
 **教师管理界面图**
 
 ![1753458947455](C:\Windows\TEMP\1753458947455.png)
