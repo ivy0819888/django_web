@@ -65,7 +65,3 @@ pip install -r requirements.txt -i http://mirrors.aliyun.com/pypi/simple/   --tr
 运行 python  manage.py runserver   --insecure 0.0.0.0:8080 即可
 
 路径地址：localhost:8080/项目名称/admin/dist/index.html
-
-### 付费咨询
-
-微信: lengqin1024
