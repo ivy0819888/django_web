@@ -40,7 +40,7 @@
 
 **管理员功能界面图**
 
-https://github.com/ivy0819888/django_web/blob/main/%E5%AD%A6%E7%94%9F.png
+https://github.com/ivy0819888/django_web/blob/main/%E9%A6%96%E9%A1%B5.png
 
 **学生管理界面图**
 
